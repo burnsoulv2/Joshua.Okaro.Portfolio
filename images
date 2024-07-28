@@ -1,7 +1,0 @@
-my-lib
-  - assets
-     arrow.png
-  - src
-     ArrowComponent.js
-   package.json
-
